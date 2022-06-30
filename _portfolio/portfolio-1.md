@@ -4,5 +4,6 @@ excerpt: "[Script](https://github.com/ursulacotrina/Proyectos/blob/main/Analisis
 
 collection: portfolio
 ---
-[Script](https://github.com/ursulacotrina/Proyectos/blob/main/Analisis_salud_pandemia.ipynb): I analyze the evolution of positive cases, vaccinated and deceased by covid <br/><img src='/images/covid.jpg'>.
+[Script](https://github.com/ursulacotrina/Proyectos/blob/main/Analisis_salud_pandemia.ipynb): I analyze the evolution of positive cases, vaccinated and deceased by covid 
+<br/><img src='/images/covid.jpg'>.
 
