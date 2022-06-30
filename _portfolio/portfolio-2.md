@@ -1,7 +1,7 @@
 ---
-title: "Case study covid Peru 2020"
-excerpt: "[Script](https://github.com/ursulacotrina/Proyectos/blob/main/Analisis_salud_pandemia.ipynb)": I analyze the evolution of positive cases, vaccinated and deceased by covid 
+title: "Mincer equation - Cajamarca"
+excerpt: "[Script](https://github.com/ursulacotrina/Proyectos/blob/main/Mincer_ENAHO_2019.ipynb)": I analyze the Mincer's equation for the department of Cajamarca.
 collection: portfolio
 ---
 
-[Script](https://github.com/ursulacotrina/Proyectos/blob/main/Analisis_salud_pandemia.ipynb): I analyze the evolution of positive cases, vaccinated and deceased by covid.
+[Script](https://github.com/ursulacotrina/Proyectos/blob/main/Mincer_ENAHO_2019.ipynb): I analyze the Mincer's equation for the department of Cajamarca.
